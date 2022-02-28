@@ -1,48 +1,48 @@
-39357590271813
+41138508142536
 kbd_SW_Hole
-SW_Hole_1
-
-
-0
-0
-0
-kbd_SW_Hole
-SW_Hole_1.5
+SW_Hole_1.5u
 
 
 0
 0
 0
 kbd_SW_Hole
-SW_Hole_1.25
+SW_Hole_1.25u
 
 
 0
 0
 0
 kbd_SW_Hole
-SW_Hole_1.75
+SW_Hole_1.75u
 
 
 0
 0
 0
 kbd_SW_Hole
-SW_Hole_2
+SW_Hole_1u
 
 
 0
 0
 0
 kbd_SW_Hole
-SW_Hole_2.25
+SW_Hole_2.25u
 
 
 0
 0
 0
 kbd_SW_Hole
-SW_Hole_2.75
+SW_Hole_2.75u
+
+
+0
+0
+0
+kbd_SW_Hole
+SW_Hole_2u
 
 
 0
@@ -56,21 +56,21 @@ SW_Hole_2u_choc_v2
 0
 0
 kbd_SW_Hole
-SW_Hole_6.25
+SW_Hole_6.25u
 
 
 0
 0
 0
 kbd_SW_Hole
-SW_Hole_7
+SW_Hole_7u
 
 
 0
 0
 0
 kbd_SW_Hole
-SW_Hole_Choc_2U_MiddleLayer
+SW_Hole_Choc_2u_MiddleLayer
 
 
 0
@@ -91,56 +91,63 @@ SW_Hole_Choc_MiddleLayer
 0
 0
 kbd_SW_Hole
-SW_Hole_TH_1
+SW_Hole_TH_1.5u
 
 
 0
 4
 1
 kbd_SW_Hole
-SW_Hole_TH_1.5
+SW_Hole_TH_1.25u
 
 
 0
 4
 1
 kbd_SW_Hole
-SW_Hole_TH_1.25
+SW_Hole_TH_1.75u
 
 
 0
 4
 1
 kbd_SW_Hole
-SW_Hole_TH_1.75
+SW_Hole_TH_1u
 
 
 0
 4
 1
 kbd_SW_Hole
-SW_Hole_TH_2
+SW_Hole_TH_2.25u
 
 
 0
 12
 1
 kbd_SW_Hole
-SW_Hole_TH_2.25
+SW_Hole_TH_2.75u
 
 
 0
 12
 1
 kbd_SW_Hole
-SW_Hole_TH_2.75
+SW_Hole_TH_2u
 
 
 0
 12
 1
 kbd_SW_Hole
-SW_Hole_TH_6.25
+SW_Hole_TH_6.25u
+
+
+0
+12
+1
+kbd_SW_Hole
+SW_Hole_TH_7u
 
 
 0
